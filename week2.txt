@@ -1,0 +1,3 @@
+week2 important links
+https://nodejs.org/dist/latest-v16.x/docs/api/path.html
+google html content types
