@@ -1,11 +1,3 @@
-/**
- * Module dependencies.
- *  File name: app.js, 
-    Student's name: Ofovwe Ewere
-    Student's id: 301188196
-    Date: June 4, 2021
-
- */
 "use strict";
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
